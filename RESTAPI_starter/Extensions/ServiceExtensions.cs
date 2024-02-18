@@ -1,5 +1,6 @@
 ﻿using Contracts;
 using LoggerService;
+using Repository;
 
 namespace RESTAPI_starter.Extensions
 {
@@ -12,7 +13,6 @@ namespace RESTAPI_starter.Extensions
                 .AllowAnyMethod()
                 .AllowAnyHeader());
             });
-
         public static void ConfigureIISIntegration(this IServiceCollection Services) =>
             Services.Configure<IISOptions>(options =>
             {
@@ -20,5 +20,7 @@ namespace RESTAPI_starter.Extensions
             });
         public static void ConfigureLoggerService(this IServiceCollection services) =>
             services.AddSingleton<ILoggerManager, LoggerManager>();
+        public static void ConfigureRepositoryManager(this IServiceCollection services) =>
+            services.AddScoped<IRepositoryManager, RepositoryManager>();
     }
 }

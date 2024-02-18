@@ -18,6 +18,7 @@ namespace RESTAPI_starter
             builder.Services.ConfigureIISIntegration();
             builder.Services.ConfigureLoggerService();
             builder.Services.AddControllers();
+            builder.Services.ConfigureRepositoryManager();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
