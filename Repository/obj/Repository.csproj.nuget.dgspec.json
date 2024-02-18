@@ -4,14 +4,14 @@
     "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj": {
+    "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj",
-        "projectName": "Repository",
-        "projectPath": "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj",
+        "projectUniqueName": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Options\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\CSharp\\API\\Repository\\obj\\",
+        "outputPath": "E:\\Coding\\CSharp\\API\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Options\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,91 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "E:\\Coding\\CSharp\\API\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Options\\.nuget\\packages\\",
+        "outputPath": "E:\\Coding\\CSharp\\API\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Options\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,0 +1,17 @@
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Repository.deps.json
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Repository.dll
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Repository.pdb
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Entities.dll
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Entities.pdb
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.dll
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\refint\Repository.dll
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.pdb
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\ref\Repository.dll

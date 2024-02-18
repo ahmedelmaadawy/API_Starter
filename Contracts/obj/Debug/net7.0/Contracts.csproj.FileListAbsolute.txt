@@ -20,3 +20,16 @@ E:\Coding\CSharp\Contracts\obj\Debug\net7.0\Contracts.dll
 E:\Coding\CSharp\Contracts\obj\Debug\net7.0\refint\Contracts.dll
 E:\Coding\CSharp\Contracts\obj\Debug\net7.0\Contracts.pdb
 E:\Coding\CSharp\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+E:\Coding\CSharp\API\Contracts\bin\Debug\net7.0\Contracts.deps.json
+E:\Coding\CSharp\API\Contracts\bin\Debug\net7.0\Contracts.dll
+E:\Coding\CSharp\API\Contracts\bin\Debug\net7.0\Contracts.pdb
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.dll
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.pdb
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\ref\Contracts.dll
+E:\Coding\CSharp\API\Contracts\bin\Debug\net7.0\Contracts.runtimeconfig.json
+E:\Coding\CSharp\API\Contracts\obj\Debug\net7.0\Contracts.genruntimeconfig.cache

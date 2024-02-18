@@ -1,0 +1,13 @@
+E:\Coding\CSharp\API\Entities\bin\Debug\net7.0\Entities.deps.json
+E:\Coding\CSharp\API\Entities\bin\Debug\net7.0\Entities.dll
+E:\Coding\CSharp\API\Entities\bin\Debug\net7.0\Entities.pdb
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.dll
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\refint\Entities.dll
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.pdb
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\ref\Entities.dll
+E:\Coding\CSharp\API\Entities\bin\Debug\net7.0\Entities.runtimeconfig.json
+E:\Coding\CSharp\API\Entities\obj\Debug\net7.0\Entities.genruntimeconfig.cache
