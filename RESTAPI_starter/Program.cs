@@ -1,3 +1,4 @@
+using Contracts;
 using Microsoft.AspNetCore.HttpOverrides;
 using NLog;
 using RESTAPI_starter.Extensions;
@@ -9,7 +10,6 @@ namespace RESTAPI_starter
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
             LogManager.Setup().LoadConfigurationFromFile(string.Concat(Directory.GetCurrentDirectory(), "/nlog.config"));
 
 
@@ -29,11 +29,15 @@ namespace RESTAPI_starter
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+            var logger = app.Services.GetRequiredService<ILoggerManager>();
+            app.ConfigureExceptionHandler(logger);
+
+            if (app.Environment.IsProduction())
+                app.UseHsts();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI();
 
