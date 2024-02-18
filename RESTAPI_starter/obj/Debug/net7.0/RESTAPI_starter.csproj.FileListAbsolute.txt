@@ -133,3 +133,5 @@ E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Service.pdb
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Service.Contracts.pdb
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Shared.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Shared.pdb
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\AutoMapper.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
