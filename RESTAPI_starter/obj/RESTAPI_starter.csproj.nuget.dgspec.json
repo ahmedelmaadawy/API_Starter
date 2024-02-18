@@ -225,6 +225,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "E:\\Coding\\CSharp\\API\\Contracts\\Contracts.csproj": {
+                "projectPath": "E:\\Coding\\CSharp\\API\\Contracts\\Contracts.csproj"
+              },
               "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
                 "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj"
               }

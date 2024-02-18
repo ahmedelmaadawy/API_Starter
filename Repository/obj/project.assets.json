@@ -1078,6 +1078,16 @@
           }
         }
       },
+      "Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contracts.dll": {}
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -2954,6 +2964,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Contracts/Contracts.csproj",
+      "msbuildProject": "../Contracts/Contracts.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -2962,6 +2977,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Contracts >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.16",
@@ -2995,6 +3011,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "E:\\Coding\\CSharp\\API\\Contracts\\Contracts.csproj": {
+              "projectPath": "E:\\Coding\\CSharp\\API\\Contracts\\Contracts.csproj"
+            },
             "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
               "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj"
             }
