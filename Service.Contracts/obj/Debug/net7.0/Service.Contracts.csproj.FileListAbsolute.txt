@@ -1,0 +1,15 @@
+E:\Coding\CSharp\API\Service.Contracts\bin\Debug\net7.0\Service.Contracts.deps.json
+E:\Coding\CSharp\API\Service.Contracts\bin\Debug\net7.0\Service.Contracts.dll
+E:\Coding\CSharp\API\Service.Contracts\bin\Debug\net7.0\Service.Contracts.pdb
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.AssemblyReference.cache
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfoInputs.cache
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.AssemblyInfo.cs
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.csproj.CopyComplete
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.dll
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\refint\Service.Contracts.dll
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\Service.Contracts.pdb
+E:\Coding\CSharp\API\Service.Contracts\obj\Debug\net7.0\ref\Service.Contracts.dll
+E:\Coding\CSharp\API\Service.Contracts\bin\Debug\net7.0\Shared.dll
+E:\Coding\CSharp\API\Service.Contracts\bin\Debug\net7.0\Shared.pdb

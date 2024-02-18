@@ -27,7 +27,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

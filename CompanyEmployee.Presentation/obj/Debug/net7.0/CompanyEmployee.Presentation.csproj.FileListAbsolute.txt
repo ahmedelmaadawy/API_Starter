@@ -1,0 +1,17 @@
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\CompanyEmployee.Presentation.deps.json
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\CompanyEmployee.Presentation.dll
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\CompanyEmployee.Presentation.pdb
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\Service.Contracts.dll
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\Service.Contracts.pdb
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.csproj.AssemblyReference.cache
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.AssemblyInfoInputs.cache
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.AssemblyInfo.cs
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.csproj.CopyComplete
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.dll
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\refint\CompanyEmployee.Presentation.dll
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\CompanyEmployee.Presentation.pdb
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\obj\Debug\net7.0\ref\CompanyEmployee.Presentation.dll
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\Shared.dll
+E:\Coding\CSharp\API\CompanyEmployee.Presentation\bin\Debug\net7.0\Shared.pdb

@@ -45,3 +45,5 @@ E:\Coding\CSharp\API\LoggerService\obj\Debug\net7.0\LoggerService.pdb
 E:\Coding\CSharp\API\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
 E:\Coding\CSharp\API\LoggerService\bin\Debug\net7.0\LoggerService.runtimeconfig.json
 E:\Coding\CSharp\API\LoggerService\obj\Debug\net7.0\LoggerService.genruntimeconfig.cache
+E:\Coding\CSharp\API\LoggerService\bin\Debug\net7.0\Entities.dll
+E:\Coding\CSharp\API\LoggerService\bin\Debug\net7.0\Entities.pdb

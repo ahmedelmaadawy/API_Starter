@@ -15,3 +15,5 @@ E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\refint\Repository.dll
 E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.pdb
 E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
 E:\Coding\CSharp\API\Repository\obj\Debug\net7.0\ref\Repository.dll
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Contracts.dll
+E:\Coding\CSharp\API\Repository\bin\Debug\net7.0\Contracts.pdb

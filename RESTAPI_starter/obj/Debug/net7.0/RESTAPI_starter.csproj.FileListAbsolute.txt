@@ -125,3 +125,11 @@ E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.EntityFrameworkC
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Mono.TextTemplating.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\System.CodeDom.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\CompanyEmployee.Presentation.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Service.Contracts.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Service.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\CompanyEmployee.Presentation.pdb
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Service.pdb
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Service.Contracts.pdb
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Shared.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Shared.pdb
