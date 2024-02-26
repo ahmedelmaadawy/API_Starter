@@ -95,6 +95,9 @@
             "projectReferences": {
               "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
                 "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj"
+              },
+              "E:\\Coding\\CSharp\\API\\Shared\\Shared.csproj": {
+                "projectPath": "E:\\Coding\\CSharp\\API\\Shared\\Shared.csproj"
               }
             }
           }

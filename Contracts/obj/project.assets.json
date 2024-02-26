@@ -362,6 +362,16 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Shared.dll": {}
+        }
       }
     }
   },
@@ -918,12 +928,18 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Shared/1.0.0": {
+      "type": "project",
+      "path": "../Shared/Shared.csproj",
+      "msbuildProject": "../Shared/Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Entities >= 1.0.0",
-      "Microsoft.EntityFrameworkCore.Design >= 7.0.16"
+      "Microsoft.EntityFrameworkCore.Design >= 7.0.16",
+      "Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -955,6 +971,9 @@
           "projectReferences": {
             "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj": {
               "projectPath": "E:\\Coding\\CSharp\\API\\Entities\\Entities.csproj"
+            },
+            "E:\\Coding\\CSharp\\API\\Shared\\Shared.csproj": {
+              "projectPath": "E:\\Coding\\CSharp\\API\\Shared\\Shared.csproj"
             }
           }
         }

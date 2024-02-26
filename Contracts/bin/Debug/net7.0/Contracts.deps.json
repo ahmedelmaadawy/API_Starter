@@ -9,7 +9,8 @@
       "Contracts/1.0.0": {
         "dependencies": {
           "Entities": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Design": "7.0.16"
+          "Microsoft.EntityFrameworkCore.Design": "7.0.16",
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Contracts.dll": {}
@@ -212,6 +213,11 @@
         "runtime": {
           "Entities.dll": {}
         }
+      },
+      "Shared/1.0.0": {
+        "runtime": {
+          "Shared.dll": {}
+        }
       }
     }
   },
@@ -362,6 +368,11 @@
       "hashPath": "system.text.json.7.0.0.nupkg.sha512"
     },
     "Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
