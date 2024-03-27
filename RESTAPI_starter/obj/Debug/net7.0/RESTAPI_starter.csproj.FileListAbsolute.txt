@@ -140,3 +140,5 @@ E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.AspNetCore.Ident
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.MvcApplicationPartsAssemblyInfo.cs

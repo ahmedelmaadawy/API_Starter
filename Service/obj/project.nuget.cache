@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XsT7JfrR5Wr8AbuY2rXI0uTU/kPltyqw4h0h2CMfobSck3hjpcbs9yhxRBv6pX0GZOO8WRMTxR2tSrMfVpiBqA==",
+  "dgSpecHash": "4pa9Q9OqtFGWZ4w53+kUlIGP4MNg6v/FYgk4giKzCtWq0MZgtb4Anlh6UgdX6zSzDySJ7nHxyPylR8K/UzYo9Q==",
   "success": true,
   "projectFilePath": "E:\\Coding\\CSharp\\API\\Service\\Service.csproj",
   "expectedPackageFiles": [
@@ -24,7 +24,12 @@
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Options\\.nuget\\packages\\microsoft.extensions.options\\7.0.1\\microsoft.extensions.options.7.0.1.nupkg.sha512",
-    "C:\\Users\\Options\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+    "C:\\Users\\Options\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Options\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.5.0\\microsoft.identitymodel.abstractions.7.5.0.nupkg.sha512",
+    "C:\\Users\\Options\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.5.0\\microsoft.identitymodel.jsonwebtokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Options\\.nuget\\packages\\microsoft.identitymodel.logging\\7.5.0\\microsoft.identitymodel.logging.7.5.0.nupkg.sha512",
+    "C:\\Users\\Options\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.5.0\\microsoft.identitymodel.tokens.7.5.0.nupkg.sha512",
+    "C:\\Users\\Options\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.5.0\\system.identitymodel.tokens.jwt.7.5.0.nupkg.sha512"
   ],
   "logs": []
 }
