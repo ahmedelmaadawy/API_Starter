@@ -62,7 +62,6 @@ E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.GeneratedM
 E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.AssemblyInfoInputs.cache
 E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.AssemblyInfo.cs
 E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.csproj.CoreCompileInputs.cache
-E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.MvcApplicationPartsAssemblyInfo.cs
 E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\RESTAPI_starter.MvcApplicationPartsAssemblyInfo.cache
 E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\staticwebassets\msbuild.RESTAPI_starter.Microsoft.AspNetCore.StaticWebAssets.props
 E:\Coding\CSharp\API\RESTAPI_starter\obj\Debug\net7.0\staticwebassets\msbuild.build.RESTAPI_starter.props
@@ -135,3 +134,9 @@ E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Shared.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Shared.pdb
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\AutoMapper.dll
 E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Coding\CSharp\API\RESTAPI_starter\bin\Debug\net7.0\Microsoft.Extensions.Options.dll

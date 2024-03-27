@@ -34,7 +34,8 @@ namespace RESTAPI_starter
                 .AddCustomCSVFormatter()
                 .AddApplicationPart(typeof(CompanyEmployee.Presentation.AssemblyReference).Assembly);
             builder.Services.AddAutoMapper(typeof(Program));
-
+            builder.Services.AddAuthentication();
+            builder.Services.ConfigureIdentity();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -65,7 +66,7 @@ namespace RESTAPI_starter
                 ForwardedHeaders = ForwardedHeaders.All
             });
             app.UseCors("CorsPolicy");
-
+            app.UseAuthorization();
             app.UseAuthorization();
             //app.Run(async context =>
             //{
